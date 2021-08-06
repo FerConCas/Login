@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySplashScreen</string>
+    <string name="prefs_file">com.example.mysplashscreen.PREFRENCE_FILE_KEY</string>
+    <string name="facebook_app_id">2119164301559324</string>
+    <string name="fb_login_protocol_scheme">fb2119164301559324</string>
+
+
+    <string name="facebook_application_id" translatable="false">CHANGE-ME</string>
+
+</resources>

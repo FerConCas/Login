@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397288952530",
+    "project_id": "mysplashfirebase",
+    "storage_bucket": "mysplashfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397288952530:android:f4d0bc33473bb63357130b",
+        "android_client_info": {
+          "package_name": "com.example.mysplashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397288952530-etvmgf1uqovvq51nfcj44m7bmp9sf5an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mysplashscreen",
+            "certificate_hash": "9912ac467dfae642868694199b96a1ba3a3c5631"
+          }
+        },
+        {
+          "client_id": "397288952530-8hnd4rbif6p3qdvgfvinukh4mh9c8nti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt6idmE88tOSO7M-cbxg8SbUrCc25H7Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397288952530-8hnd4rbif6p3qdvgfvinukh4mh9c8nti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
